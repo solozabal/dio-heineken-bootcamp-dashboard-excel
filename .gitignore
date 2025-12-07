@@ -13,6 +13,16 @@ build/
 # Virtual Environment
 venv/
 .env
+env/
+
+# Data / artifacts
+*.xlsx
+*.xls
+*.csv
+
+# Streamlit state and config (local)
+.streamlit/secret.toml
+.streamlit/credentials.toml
 
 # Jupyter Notebook
 .ipynb_checkpoints
