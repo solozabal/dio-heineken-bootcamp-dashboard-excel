@@ -111,20 +111,19 @@ If your file uses different headers, align them or adapt `clean_col` to map alia
 ---
 
 ## 🧰 Structure
-
+```
 ├─ assets\
 │   └─ screencapture-dashboard.png
 ├─ .gitignore
-├─ ~$database.xlsx
 ├─ app.py
 ├─ ci.yml
 ├─ config.toml
-├─ dashboard-finalizado.xlsx - 
-├─ database.xlsx
+├─ dashboard-finalizado.xlsx - is included solely for DIO & Heineken Bootcamp exercise.
+├─ database.xlsx - source of data.
 ├─ dockerfile
 ├─ README.md
 ├─ requirements.txt
-
+```
 ---
 
 ## ✅ What's been improved (summary)
@@ -156,4 +155,3 @@ Licensed under the [MIT License](LICENSE).
     <img src="https://img.shields.io/badge/Pedro%20Solozabal-LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="Pedro Solozabal on LinkedIn">
   </a>
 </p>
-```
